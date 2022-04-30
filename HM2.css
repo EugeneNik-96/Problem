@@ -1,0 +1,53 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.Lesyk { 
+    color: rgb(124, 149, 149);
+    background-color: rgb(254, 255, 240);
+    box-sizing: border-box; 
+    border-style: dashed;
+}
+
+.captain { 
+    background-color: green;
+    font-size: 25px;
+    box-sizing: border-box;
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 20px ;
+    padding-left: 10px ; 
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+}
+
+.table {
+    box-sizing: border-box;
+    width: 700px;
+    height: 200px;
+    
+}
+
+.avatar {
+    float: left;
+    width: 200px;
+    padding: 15px;
+
+}
+
+.beer {
+    float: right;
+    width: 100px;
+    padding-left: 10px;
+                
+}
